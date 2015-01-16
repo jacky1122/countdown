@@ -16,7 +16,7 @@
         "name": "Keith Wood",
         "url": "http://keith-wood.name/"
     },
-	"devDependencies": {
-		"jquery": ">=1.4"
-	}
+    "devDependencies": {
+    "jquery": ">=1.4"
+    }
 }
