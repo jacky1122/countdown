@@ -17,6 +17,6 @@
         "url": "http://keith-wood.name/"
     },
     "devDependencies": {
-    "jquery": ">=1.4"
+        "jquery": ">=1.4"
     }
 }
