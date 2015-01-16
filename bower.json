@@ -1,22 +1,14 @@
 {
-    "name": "kbwood_countdown",
-    "version": "2.0.1",
-    "main": "jquery.countdown.js",
-    "ignore": [
-        "*.gif",
-        "*.html",
-        "*.json",
-        "*.md",
-        "*.png",
-        "jquery.countdown-*.js",
-        "jquery.*.min.js"
-    ],
-    "licenses": "MIT",
-    "author": {
-        "name": "Keith Wood",
-        "url": "http://keith-wood.name/"
-    },
-    "devDependencies": {
-        "jquery": ">=1.4"
-    }
+  "name": "kbwood_countdown",
+  "version": "2.0.1",
+  "main": "jquery.countdown.js",
+  "ignore": [
+    "*.gif",
+    "*.html",
+    "*.json",
+    "*.md",
+    "*.png",
+    "jquery.countdown-*.js",
+    "jquery.*.min.js"
+  ]
 }
